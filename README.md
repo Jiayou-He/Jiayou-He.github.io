@@ -1,3 +1,3 @@
 # Jiayou-He.github.io
 
-Jiayou He's Academic Homepage.
+Jiayou He's Homepage.
